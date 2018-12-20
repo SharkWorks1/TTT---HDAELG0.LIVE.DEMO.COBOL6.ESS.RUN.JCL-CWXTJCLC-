@@ -2,11 +2,11 @@
 <?totaltestVersion 19.3.1.v20181214-1343_790?>
 <!--Topaz for Total Test 19.3.1.v20181214-1343_790 Dec 19, 2018 3:15:22 PM-->
 <testExecutions version="1">
-  <file path="C:\Users\ftsvm\Compuware\Workbench\Workspace For Version 19.03.01 January 2019 Release Downloaded on December 19, 2018\TTT - HDAELG0.LIVE.DEMO.COBOL6.ESS.RUN.JCL(CWXTJCLC)\Unit Test\Scenarios\CWXTCOB_Scenario.testscenario">
+  <file path="D:\git\repository\TTT - HDAELG0.LIVE.DEMO.COBOL6.ESS.RUN.JCL(CWXTJCLC)\TTT - HDAELG0.LIVE.DEMO.COBOL6.ESS.RUN.JCL(CWXTJCLC)\Unit Test\Scenarios\CWXTCOB_Scenario.testscenario">
     <testCase duration="0" name="TTT - HDAELG0.LIVE.DEMO.COBOL6.ESS.RUN.JCL(CWXTJCLC).CWXTCOB_Scenario.00001: CWXTCOBCase1.00001: Check for PARM_LTH"/>
     <testCase duration="0" name="TTT - HDAELG0.LIVE.DEMO.COBOL6.ESS.RUN.JCL(CWXTJCLC).CWXTCOB_Scenario.00001: CWXTCOBCase1.00002: Check for PARM_DATA"/>
   </file>
-  <file path="C:\Users\ftsvm\Compuware\Workbench\Workspace For Version 19.03.01 January 2019 Release Downloaded on December 19, 2018\TTT - HDAELG0.LIVE.DEMO.COBOL6.ESS.RUN.JCL(CWXTJCLC)\Unit Test\Stubs\CWXTCOB_RPTFILE_FILE_01.stub">
+  <file path="D:\git\repository\TTT - HDAELG0.LIVE.DEMO.COBOL6.ESS.RUN.JCL(CWXTJCLC)\TTT - HDAELG0.LIVE.DEMO.COBOL6.ESS.RUN.JCL(CWXTJCLC)\Unit Test\Stubs\CWXTCOB_RPTFILE_FILE_01.stub">
     <testCase duration="0" name="TTT - HDAELG0.LIVE.DEMO.COBOL6.ESS.RUN.JCL(CWXTJCLC).CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00001: RPTFILE assertion.00001: Check for BLANK_LINE"/>
     <testCase duration="0" name="TTT - HDAELG0.LIVE.DEMO.COBOL6.ESS.RUN.JCL(CWXTJCLC).CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00002: RPTFILE assertion.00001: Check for BLANK_LINE"/>
     <testCase duration="0" name="TTT - HDAELG0.LIVE.DEMO.COBOL6.ESS.RUN.JCL(CWXTJCLC).CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00003: RPTFILE assertion.00001: Check for BLANK_LINE"/>
